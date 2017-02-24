@@ -6,6 +6,7 @@
     <string name="enter_password">Please Enter Password</string>
     <string name="invalid_email">Enter Valid EmailID</string>
     <string name="required_field">Required Field</string>
+    <string name="login_failed">Email Id or Password is Wrong!</string>
     <string name="phone_state_rationale">We need phone state permission to make your experience more secure.</string>
     <string name="location_permission_rationale">We need location permission to show your location on the map</string>
     <string name="title_activity_map">MapActivity</string>

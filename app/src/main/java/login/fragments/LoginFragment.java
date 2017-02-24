@@ -187,7 +187,7 @@ public class LoginFragment extends DialogFragment {
             Intent intent = new Intent(getActivity(), MapActivity.class);
             getActivity().startActivity(intent);
         } else {
-            Toast.makeText(getActivity(), "", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getActivity(), getString(R.string.login_failed), Toast.LENGTH_SHORT).show();
         }
     }
 
