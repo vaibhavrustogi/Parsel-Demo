@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275696755128",
+    "firebase_url": "https://my-map-demo-1264.firebaseio.com",
+    "project_id": "my-map-demo-1264",
+    "storage_bucket": "my-map-demo-1264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275696755128:android:af1f6696c3b22d8c",
+        "android_client_info": {
+          "package_name": "com.example.vaibhavrustogi.parseldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275696755128-4rh1jfpit7qp9gclj98itiukpu9ggt61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQ03fcEXsk3_yBc9y0z1B5BXR1fav_IU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

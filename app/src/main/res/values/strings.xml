@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parsel Demo</string>
+    <string name="action_login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Please Enter Password</string>
+    <string name="invalid_email">Enter Valid EmailID</string>
+    <string name="required_field">Required Field</string>
+    <string name="phone_state_rationale">We need phone state permission to make your experience more secure.</string>
+    <string name="location_permission_rationale">We need location permission to show your location on the map</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
